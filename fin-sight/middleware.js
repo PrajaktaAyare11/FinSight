@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import arcjet, { createMiddleware, detectBot, shield } from '@arcjet/next';
 import { create } from '@bufbuild/protobuf';
 import { auth, clerkMiddleware, createRouteMatcher } from '@clerk/nextjs/server';
