@@ -26,9 +26,10 @@ export default function RootLayout({ children }) {
             <CopilotChatWrapper />
 
             <Toaster richColors />
-            <footer className="bg-blue-100 py-8">
-              <div className="container mx-auto px-4 text-center">
-                <p>Prajakta Ayare</p>
+            <footer className=" bg-white dark:bg-gray-900/70 '">
+              <div className="container mx-auto py-6 text-center 
+ ">
+                <p>Prajakta Ayare💌</p>
               </div>
             </footer>
           </ThemeProvider>

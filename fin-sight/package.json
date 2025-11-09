@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@arcjet/next": "^1.0.0-beta.11",
+    "@arcjet/node": "^1.0.0-beta.14",
     "@bufbuild/protobuf": "^2.8.0",
     "@clerk/nextjs": "^6.31.4",
     "@connectrpc/connect": "^2.1.0",
