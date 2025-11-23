@@ -35,7 +35,7 @@ Upload receipts and let Gemini AI automatically extract and categorize your tran
 
 ### 🤖 AI Copilot  
 Chat with an AI assistant to get personalized insights and budgeting tips.  
-<img width="816" height="333" alt="image" src="https://github.com/user-attachments/assets/f5b57b4a-9f8e-451d-9b1d-b38edebb357a" />
+<img width="1910" height="839" alt="image" src="https://github.com/user-attachments/assets/aaa97ee0-dcc4-41f8-8e16-2cda0a4651ce" />
 
 ---
 
